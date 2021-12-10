@@ -1,10 +1,5 @@
 <script lang="ts">
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
 import { defineComponent } from "vue";
-
-// This imports the WindowComponent. Register it under the "components" field in order to use it in the template.
-import WindowComponent from "./components/WindowComponent.vue";
 
 export default defineComponent({
   components: {
